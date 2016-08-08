@@ -1,0 +1,3 @@
+apps:
+    - script: /home/pi/Documents/BreezeRobot/vision/proxy/index.js
+      name: Webdashboard & Proxy

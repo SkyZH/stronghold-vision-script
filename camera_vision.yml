@@ -1,0 +1,3 @@
+apps:
+    - script: camera_vision.sh
+      name: Camera Vision Server

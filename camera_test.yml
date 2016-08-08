@@ -1,0 +1,3 @@
+apps:
+    - script: camera_test.sh
+      name: Camera Test Server
