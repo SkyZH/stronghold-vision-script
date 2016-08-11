@@ -1,3 +1,4 @@
 apps:
-    - script: /home/pi/Documents/BreezeRobot/vision/proxy/index.js
+    - script: /home/pi/Documents/Proxy/index.js
       name: Webdashboard & Proxy
+      restart_delay: 3000
